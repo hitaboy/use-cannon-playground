@@ -1,5 +1,5 @@
 # Use-Cannon-Playground
-## For fast React and Three.js development
+## React-Three and use-cannon examples
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Includes:
