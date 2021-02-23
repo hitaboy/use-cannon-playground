@@ -46,10 +46,10 @@ function App() {
 function Home() {
   return (
     <div className="center">
-      <h1>Cannon</h1>
+      <h1>Use-Cannon-Playground</h1>
       <hr></hr>
-      <h2>For fast React and Three.js development</h2>
-      <p>Blank project with react, react-router, react-three-fiber and @react-three/drei</p>
+      <h2>The examples use react, react-router, react-three-fiber, use-cannon and @react-three/drei</h2>
+      <p>Open menu and choose an example</p>
     </div>
   )
 }

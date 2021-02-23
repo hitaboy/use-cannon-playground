@@ -1,4 +1,4 @@
-# React-Three-Blank
+# Use-Cannon-Playground
 ## For fast React and Three.js development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,6 +7,7 @@ Includes:
 - react-router
 - react-three-fiber
 - @react-three/drei
+- use-cannon
 
 ## Available Scripts
 
